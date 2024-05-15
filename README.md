@@ -1,1 +1,1 @@
-# Inzynieria_obliczeniowa-a
+# Inzynieria_obliczeniowa
